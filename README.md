@@ -1,7 +1,8 @@
 DATA ANALYSIS AND VISUALIZATION USING POWER BI
 
+![Screenshot 2024-12-25 080726](https://github.com/user-attachments/assets/41587cbc-e07d-40fe-98f0-fbbebc92053e)
 
-
+![SUPERSTORE SALES PERFORMANCE METRIC](https://github.com/user-attachments/assets/1cf31652-2bc9-457f-8b5f-11b9cab9dd81)
 
 Questions and Suggested Charts:
 What is the total number of orders placed in each region?
